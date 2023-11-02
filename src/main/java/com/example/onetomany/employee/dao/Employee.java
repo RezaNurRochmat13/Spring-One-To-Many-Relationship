@@ -1,6 +1,6 @@
 package com.example.onetomany.employee.dao;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "employee")

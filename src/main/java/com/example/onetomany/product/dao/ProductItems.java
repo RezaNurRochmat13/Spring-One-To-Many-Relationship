@@ -1,6 +1,6 @@
 package com.example.onetomany.product.dao;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "product_items")
